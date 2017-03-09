@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+.row-main {
+    margin-top: 65px;
+}
+
+.row-main .img-circle {
+    max-height:350px;
+    max-width: 350px;
+    margin: 0 auto;
+}
+.placehold {
+    padding: 15px;
+    
+}
